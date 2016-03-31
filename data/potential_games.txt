@@ -1,0 +1,6 @@
+Potential games:
+- Battleship
+- Hangman
+- Super Mario
+- Pac man
+- Dig dug
