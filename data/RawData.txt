@@ -1,0 +1,26 @@
+it's a word 
+a
+b
+c
+a
+a
+a
+a
+a
+no 
+yes
+kk
+word
+hangman
+what word
+don't know
+keep on guessing
+i
+l
+m
+d
+e
+q
+s
+c
+s
