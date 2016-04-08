@@ -1,0 +1,15 @@
+Input:
+up
+down
+downn
+up
+kappa
+meme
+i came for trump
+left
+
+Output:
+up	
+down
+up
+left
