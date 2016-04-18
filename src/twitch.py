@@ -1,14 +1,11 @@
-#source: http://pastebin.com/MDC0RZDp
-#code for getting chat messages from local stream on twitch
-
 import socket
 import sys
 import re
  
 class Twitch:
  
-    user = "aashbrownie";
-    oauth = "oauth:0ve6hmx5fd4bu9lpyf5ns5neovageg";
+    user = "";
+    oauth = "";
     s = None;
  
     def twitch_login_status(self, data):
