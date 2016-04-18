@@ -1,0 +1,6 @@
+Step-by-Step Guide
+1. Make an account at https://www.twitch.tv/. You can connect with Facebook or create an account separately. An account only requires a username and password. If you didn’t connect with Facebook, you will need to verify your account through your email. 
+2. Go to https://www.twitch.tv/nets213. This is the livestream from which we will stream the game. Note that the stream may not be live at the time you visit, in which case, please email Yuqi at zhuyu@wharton.upenn.edu with the subject line “NETS 213: Multiplay Issue”.  Also, we are still in the process of finalizing our game choice, so for now, the stream will simply send a keypress command that will show up in a word processing document which will be tracking user input.
+3. In the chat bar on the right, input either messages or commands that you want to perform in the game. Note that only valid commands, which will be shown in a separate window, will be accepted as game inputs. That way, you can both talk to users and play the game. Valid command inputs will be fed into the game which will show the result back. 
+4. You may continue to type in commands after the game is finished but this will not do anything.
+Happy gaming!
