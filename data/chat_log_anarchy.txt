@@ -1,0 +1,2094 @@
+timestamp: 25 Apr 2016 16:19:04 | username: nets213 | message: up\
+timestamp: 25 Apr 2016 16:19:06 | username: nets213 | message: down
+timestamp: 25 Apr 2016 16:19:08 | username: nets213 | message: left
+timestamp: 25 Apr 2016 16:19:11 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:22:43 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:28:14 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:28:17 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:28:19 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:28:20 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:28:25 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:28:26 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:28:28 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:28:29 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:28:33 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:28:35 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:28:36 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:28:43 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:31:49 | username: nets213 | message: down
+timestamp: 25 Apr 2016 16:31:51 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:31:52 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:31:54 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:31:55 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:31:58 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:34:02 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:34:04 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:36:58 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:37:01 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:37:10 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:37:14 | username: nets213 | message: down
+timestamp: 25 Apr 2016 16:37:17 | username: nets213 | message: left
+timestamp: 25 Apr 2016 16:37:19 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:37:20 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:37:23 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:37:24 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:39:26 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 16:39:35 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:39:35 | username: mic_wen | message: down
+timestamp: 25 Apr 2016 16:39:38 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:39:39 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:39:39 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:39:40 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:39:41 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:39:48 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:40:12 | username: iwantbanhmi | message: right
+timestamp: 25 Apr 2016 16:40:14 | username: iwantbanhmi | message: right
+timestamp: 25 Apr 2016 16:40:16 | username: iwantbanhmi | message: right
+timestamp: 25 Apr 2016 16:40:18 | username: iwantbanhmi | message: right
+timestamp: 25 Apr 2016 16:40:19 | username: iwantbanhmi | message: right
+timestamp: 25 Apr 2016 16:40:32 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:40:32 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:40:33 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:40:34 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:40:34 | username: iwantbanhmi | message: up
+timestamp: 25 Apr 2016 16:40:39 | username: nets213 | message: it's actually on anarchy now so you don't need to send 5 things lol
+timestamp: 25 Apr 2016 16:40:50 | username: nets213 | message: down
+timestamp: 25 Apr 2016 16:40:51 | username: iwantbanhmi | message: woohoooo
+timestamp: 25 Apr 2016 16:40:51 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:40:54 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:40:57 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:40:59 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:41:08 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 16:41:09 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 16:41:14 | username: mic_wen | message: right
+timestamp: 25 Apr 2016 16:41:19 | username: iwantbanhmi | message: down
+timestamp: 25 Apr 2016 16:41:36 | username: nets213 | message: shoutout to mic_wen for joining!
+timestamp: 25 Apr 2016 16:41:39 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:41:54 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:41:57 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:41:59 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:42:01 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:42:02 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:44:05 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:44:30 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 16:44:32 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 16:45:32 | username: nets213 | message: down
+timestamp: 25 Apr 2016 16:47:29 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:47:31 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:47:33 | username: nets213 | message: down
+timestamp: 25 Apr 2016 16:47:34 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:47:35 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:47:39 | username: nets213 | message: down
+timestamp: 25 Apr 2016 16:47:42 | username: nets213 | message: right
+timestamp: 25 Apr 2016 16:47:43 | username: nets213 | message: up
+timestamp: 25 Apr 2016 16:47:45 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:00:55 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:00:57 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:00:58 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:00:59 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:14:17 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:14:23 | username: eternal_hots | message: hi
+timestamp: 25 Apr 2016 17:14:26 | username: eternal_hots | message: am i doing this correctly
+timestamp: 25 Apr 2016 17:14:28 | username: nets213 | message: yes
+timestamp: 25 Apr 2016 17:14:32 | username: nets213 | message: twitch is just laggy
+timestamp: 25 Apr 2016 17:14:33 | username: nets213 | message: see?
+timestamp: 25 Apr 2016 17:14:34 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:14:38 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:14:38 | username: eternal_hots | message: kappa
+timestamp: 25 Apr 2016 17:14:40 | username: eternal_hots | message: nice nice
+timestamp: 25 Apr 2016 17:14:52 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:14:56 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:14:59 | username: nets213 | message: like so
+timestamp: 25 Apr 2016 17:15:12 | username: eternal_hots | message: ahh that's so cool
+timestamp: 25 Apr 2016 17:15:13 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 17:15:21 | username: eternal_hots | message: tup
+timestamp: 25 Apr 2016 17:15:23 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:15:24 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 17:15:35 | username: nets213 | message: yeah if only the stream wasn't so laggy but w/e
+timestamp: 25 Apr 2016 17:15:41 | username: nets213 | message: down
+timestamp: 25 Apr 2016 17:15:49 | username: nets213 | message: we might lose this game lol
+timestamp: 25 Apr 2016 17:15:52 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:15:53 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:17:35 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:17:36 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:17:37 | username: nets213 | message: right
+timestamp: 25 Apr 2016 17:17:39 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:18:23 | username: eternal_hots | message: loll
+timestamp: 25 Apr 2016 17:18:31 | username: eternal_hots | message: you're supposed to go into corners right
+timestamp: 25 Apr 2016 17:18:36 | username: eternal_hots | message: i've always been awful at 2048
+timestamp: 25 Apr 2016 17:18:43 | username: nets213 | message: yeah same i've actually never won
+timestamp: 25 Apr 2016 17:18:55 | username: nets213 | message: down
+timestamp: 25 Apr 2016 17:18:59 | username: nets213 | message: left
+timestamp: 25 Apr 2016 17:19:03 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:19:05 | username: nets213 | message: left
+timestamp: 25 Apr 2016 17:19:07 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:19:16 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:19:16 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:19:31 | username: eternal_hots | message: ohmydog
+timestamp: 25 Apr 2016 17:19:40 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:19:41 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:19:42 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:19:43 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:19:50 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:19:54 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:19:56 | username: mic_wen | message: left
+timestamp: 25 Apr 2016 17:20:03 | username: mic_wen | message: left
+timestamp: 25 Apr 2016 17:20:10 | username: mic_wen | message: left
+timestamp: 25 Apr 2016 17:20:11 | username: mic_wen | message: left
+timestamp: 25 Apr 2016 17:20:32 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:20:37 | username: mic_wen | message: right
+timestamp: 25 Apr 2016 17:20:42 | username: mic_wen | message: right
+timestamp: 25 Apr 2016 17:20:43 | username: mic_wen | message: right
+timestamp: 25 Apr 2016 17:20:49 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:20:51 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:20:57 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:20:58 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:20:58 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:21:01 | username: eternal_hots | message: hi michael lol
+timestamp: 25 Apr 2016 17:21:02 | username: mic_wen | message: left
+timestamp: 25 Apr 2016 17:21:03 | username: eternal_hots | message: it's tony
+timestamp: 25 Apr 2016 17:21:06 | username: mic_wen | message: lmao
+timestamp: 25 Apr 2016 17:21:09 | username: mic_wen | message: sup tony
+timestamp: 25 Apr 2016 17:21:11 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:21:12 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:21:14 | username: mic_wen | message: playing this in class rn
+timestamp: 25 Apr 2016 17:21:16 | username: eternal_hots | message: nobody is doing our task :(
+timestamp: 25 Apr 2016 17:21:21 | username: mic_wen | message: :(
+timestamp: 25 Apr 2016 17:21:23 | username: nets213 | message: which one is your guys?
+timestamp: 25 Apr 2016 17:21:31 | username: eternal_hots | message: finding pictures for children's books
+timestamp: 25 Apr 2016 17:21:36 | username: nets213 | message: o i saw that
+timestamp: 25 Apr 2016 17:21:46 | username: mic_wen | message: i guess i'll do a bunch tomorrow
+timestamp: 25 Apr 2016 17:21:56 | username: mic_wen | message: do we get credit for doing our own
+timestamp: 25 Apr 2016 17:22:03 | username: mic_wen | message: cause then i'm gonna stop doing this one lol
+timestamp: 25 Apr 2016 17:22:03 | username: eternal_hots | message: not time credit
+timestamp: 25 Apr 2016 17:22:05 | username: nets213 | message: not participation. but it can count for your analysis
+timestamp: 25 Apr 2016 17:22:06 | username: mic_wen | message: dammit
+timestamp: 25 Apr 2016 17:22:10 | username: eternal_hots | message: o wait
+timestamp: 25 Apr 2016 17:22:11 | username: eternal_hots | message: we got some
+timestamp: 25 Apr 2016 17:22:13 | username: eternal_hots | message: like 40%
+timestamp: 25 Apr 2016 17:22:16 | username: eternal_hots | message: good enough for analysis lol
+timestamp: 25 Apr 2016 17:22:16 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:17 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:19 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:22:20 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:22:21 | username: mic_wen | message: :d
+timestamp: 25 Apr 2016 17:22:27 | username: eternal_hots | message: tbtacoleft tbcheesepull tbcheesepull tbcheesepull tbtacoright
+timestamp: 25 Apr 2016 17:22:34 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:34 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:35 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:37 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:38 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:38 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:39 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:39 | username: nets213 | message: yeah that's what we were going for too
+timestamp: 25 Apr 2016 17:22:45 | username: mic_wen | message: right
+timestamp: 25 Apr 2016 17:22:46 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:22:51 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 17:22:51 | username: nets213 | message: also all these chats are logged and we had some trolls yesterday posting copypastas and stuff
+timestamp: 25 Apr 2016 17:22:52 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:22:58 | username: mic_wen | message: lol
+timestamp: 25 Apr 2016 17:23:03 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:03 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:04 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:04 | username: nets213 | message: so ccb can see them
+timestamp: 25 Apr 2016 17:23:05 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:06 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:06 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:07 | username: nets213 | message: hehe
+timestamp: 25 Apr 2016 17:23:07 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:08 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:13 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:14 | username: mic_wen | message: up
+timestamp: 25 Apr 2016 17:23:15 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:23:16 | username: aashbrownie | message: down
+timestamp: 25 Apr 2016 17:23:18 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 17:23:19 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 17:23:19 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 17:23:23 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:23:26 | username: eternal_hots | message: wait no it's not in the corner anymore
+timestamp: 25 Apr 2016 17:23:34 | username: eternal_hots | message: kappa
+timestamp: 25 Apr 2016 17:23:37 | username: nets213 | message: ya you still beat the other aggregation method so gj
+timestamp: 25 Apr 2016 17:23:41 | username: theonlysnail | message: we have to keep it in the corner t.t
+timestamp: 25 Apr 2016 17:23:43 | username: nets213 | message: top score on that was 832
+timestamp: 25 Apr 2016 17:23:49 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 17:23:49 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 17:24:01 | username: eternal_hots | message: rip
+timestamp: 25 Apr 2016 17:24:03 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:24:04 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:24:04 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:24:05 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:24:22 | username: mic_wen | message: restart
+timestamp: 25 Apr 2016 17:24:30 | username: mic_wen | message: new game
+timestamp: 25 Apr 2016 17:24:55 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:25:21 | username: eternal_hots | message: woah is that a valid command
+timestamp: 25 Apr 2016 17:25:22 | username: eternal_hots | message: lol
+timestamp: 25 Apr 2016 17:25:24 | username: eternal_hots | message: up left
+timestamp: 25 Apr 2016 17:25:24 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:25:25 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:25:26 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:25:27 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:25:31 | username: nets213 | message: only when we want it to be :)
+timestamp: 25 Apr 2016 17:25:41 | username: theonlysnail | message: xd
+timestamp: 25 Apr 2016 17:25:43 | username: nets213 | message: it would be dumb if you could just repeatedly restart the game
+timestamp: 25 Apr 2016 17:25:49 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:25:52 | username: eternal_hots | message: it's like in twitch plays pokemon
+timestamp: 25 Apr 2016 17:25:59 | username: eternal_hots | message: when they kept repeatedly releasing pokemon
+timestamp: 25 Apr 2016 17:26:01 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:26:02 | username: nets213 | message: yeah that was kind of our inspiration
+timestamp: 25 Apr 2016 17:26:02 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:26:03 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:26:04 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:26:04 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:26:05 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:26:06 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:26:06 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:26:23 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 17:26:23 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:26:27 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 17:26:30 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 17:26:43 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:26:45 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:26:46 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:26:46 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:26:48 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:26:53 | username: theonlysnail | message: darn this lag
+timestamp: 25 Apr 2016 17:27:00 | username: nets213 | message: i know. blame twitch
+timestamp: 25 Apr 2016 17:27:05 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:27:06 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:27:06 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:27:07 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:27:07 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:27:08 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:27:08 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:27:10 | username: nets213 | message: the commands are being input to the computer running this as quickly as you type them
+timestamp: 25 Apr 2016 17:27:16 | username: nets213 | message: it just takes a few seconds for the stream to show it
+timestamp: 25 Apr 2016 17:27:36 | username: nets213 | message: hence why it will stop, then blaze thru the last few moves
+timestamp: 25 Apr 2016 17:27:56 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:27:57 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:27:57 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:27:58 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:27:58 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:27:59 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:28:03 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:28:04 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 17:28:04 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:28:05 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:28:13 | username: nets213 | message: left
+timestamp: 25 Apr 2016 17:28:18 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:28:19 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:28:19 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:28:21 | username: lalapenguintest | message: up
+timestamp: 25 Apr 2016 17:28:24 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 17:28:25 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:28:25 | username: nets213 | message: shout to theonlysnail for playing
+timestamp: 25 Apr 2016 17:28:48 | username: lalapenguintest | message: left
+timestamp: 25 Apr 2016 17:28:54 | username: lalapenguintest | message: left
+timestamp: 25 Apr 2016 17:28:58 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 17:28:58 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:28:58 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:29:01 | username: nets213 | message: left
+timestamp: 25 Apr 2016 17:29:03 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:29:03 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:29:10 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:29:14 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:29:17 | username: nets213 | message: whoever did right, you ruined it
+timestamp: 25 Apr 2016 17:29:25 | username: nets213 | message: ok nvm close call
+timestamp: 25 Apr 2016 17:29:27 | username: nets213 | message: up
+timestamp: 25 Apr 2016 17:29:36 | username: eternal_hots | message: lool
+timestamp: 25 Apr 2016 17:29:43 | username: nets213 | message: left
+timestamp: 25 Apr 2016 17:29:49 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 17:29:50 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:30:02 | username: lalapenguintest | message: up
+timestamp: 25 Apr 2016 17:30:08 | username: lalapenguintest | message: up
+timestamp: 25 Apr 2016 17:30:11 | username: lalapenguintest | message: up
+timestamp: 25 Apr 2016 17:30:15 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:30:23 | username: lalapenguintest | message: left
+timestamp: 25 Apr 2016 17:30:32 | username: lalapenguintest | message: left
+timestamp: 25 Apr 2016 17:30:37 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:30:40 | username: nets213 | message: left
+timestamp: 25 Apr 2016 17:30:40 | username: lalapenguintest | message: up
+timestamp: 25 Apr 2016 17:30:42 | username: lalapenguintest | message: left
+timestamp: 25 Apr 2016 17:30:53 | username: lalapenguintest | message: up
+timestamp: 25 Apr 2016 17:30:59 | username: lalapenguintest | message: left
+timestamp: 25 Apr 2016 17:31:08 | username: lalapenguintest | message: left
+timestamp: 25 Apr 2016 17:31:11 | username: lalapenguintest | message: up
+timestamp: 25 Apr 2016 17:31:28 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:31:29 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:31:29 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:31:30 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:31:30 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:31:31 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:31:42 | username: eternal_hots | message: i think we need to go down and up to reset it
+timestamp: 25 Apr 2016 17:31:46 | username: eternal_hots | message: when there's no up or left moves
+timestamp: 25 Apr 2016 17:31:49 | username: theonlysnail | message: yeah
+timestamp: 25 Apr 2016 17:31:54 | username: eternal_hots | message: collaboration
+timestamp: 25 Apr 2016 17:31:55 | username: eternal_hots | message: ayyy
+timestamp: 25 Apr 2016 17:32:05 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 17:32:06 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:32:07 | username: nets213 | message: omg im screenshotting this and using it in the project if you successfully accomplish this
+timestamp: 25 Apr 2016 17:32:20 | username: eternal_hots | message: wait i'm a going to be famous
+timestamp: 25 Apr 2016 17:32:21 | username: eternal_hots | message: hi mom
+timestamp: 25 Apr 2016 17:32:29 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:32:29 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:32:49 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:33:27 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:33:28 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:33:29 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:33:29 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:33:37 | username: theonlysnail | message: again we need to do a right
+timestamp: 25 Apr 2016 17:33:46 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 17:33:47 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:33:57 | username: eternal_hots | message: yeah if there's 4 in the top row
+timestamp: 25 Apr 2016 17:34:02 | username: eternal_hots | message: i think we can do right safely
+timestamp: 25 Apr 2016 17:34:05 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:34:05 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:34:15 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:34:16 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:34:29 | username: nets213 | message: so tell me this isn't the easiest way to kill 2 hours
+timestamp: 25 Apr 2016 17:34:46 | username: theonlysnail | message: do we want to kill 2 hours on this?
+timestamp: 25 Apr 2016 17:34:59 | username: nets213 | message: if you beat 1240 lol
+timestamp: 25 Apr 2016 17:35:23 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 17:35:23 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:35:25 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:35:26 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:35:27 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:35:27 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:35:27 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:35:28 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:36:12 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:36:13 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:37:01 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:37:02 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:37:03 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:37:22 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:37:24 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:37:26 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:38:14 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:38:20 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 17:38:21 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:38:34 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:38:35 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:38:36 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:38:36 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:38:36 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:38:37 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:39:19 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:39:21 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:39:35 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:39:36 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:39:37 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:40:01 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:40:02 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:40:43 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:40:44 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:40:46 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:40:49 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:40:56 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:40:56 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:40:56 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:40:57 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:41:44 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:41:52 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:41:54 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:41:59 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:42:01 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:42:01 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:42:53 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 17:42:55 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:43:21 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:43:23 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:43:32 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:43:32 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:43:34 | username: eternal_hots | message: almost at 1240
+timestamp: 25 Apr 2016 17:44:04 | username: theonlysnail | message: ughhhhh still so far
+timestamp: 25 Apr 2016 17:44:22 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 17:44:23 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:44:47 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:44:52 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:45:06 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:45:10 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:45:13 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:45:42 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:45:49 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:45:50 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:46:09 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:46:24 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:46:24 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:46:26 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:46:26 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:47:07 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:47:09 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:47:11 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:47:12 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:47:13 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:47:15 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:47:33 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:47:35 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:47:36 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:47:59 | username: nets213 | message: nice job
+timestamp: 25 Apr 2016 17:48:05 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:48:05 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:48:06 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:48:13 | username: eternal_hots | message: :o
+timestamp: 25 Apr 2016 17:48:29 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:49:30 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:49:57 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:49:58 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:50:00 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:50:04 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:50:05 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:50:26 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:50:28 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:50:29 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:50:41 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:50:41 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:50:42 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:50:43 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:50:51 | username: eternal_hots | message: o
+timestamp: 25 Apr 2016 17:50:55 | username: theonlysnail | message: ....
+timestamp: 25 Apr 2016 17:51:18 | username: theonlysnail | message: right or down?
+timestamp: 25 Apr 2016 17:51:34 | username: eternal_hots | message: o no
+timestamp: 25 Apr 2016 17:51:49 | username: eternal_hots | message: uhh i think they're equally bad
+timestamp: 25 Apr 2016 17:52:03 | username: eternal_hots | message: unless there's a pattern that dictates where new pieces are placed
+timestamp: 25 Apr 2016 17:52:04 | username: eternal_hots | message: idk
+timestamp: 25 Apr 2016 17:52:20 | username: theonlysnail | message: aww man
+timestamp: 25 Apr 2016 17:52:27 | username: theonlysnail | message: then let's just go with right
+timestamp: 25 Apr 2016 17:52:33 | username: eternal_hots | message: ok
+timestamp: 25 Apr 2016 17:52:39 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 17:52:39 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:52:59 | username: eternal_hots | message: alright we made it
+timestamp: 25 Apr 2016 17:53:01 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:53:01 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 17:53:02 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 17:53:07 | username: theonlysnail | message: we're saved xd
+timestamp: 25 Apr 2016 17:53:12 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:53:13 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:54:16 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:54:43 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:55:01 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:55:24 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:55:34 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:55:35 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:55:57 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:56:06 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:56:13 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:56:17 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:56:20 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:56:46 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:57:17 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 17:57:19 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:57:20 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:57:30 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:57:48 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:57:49 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:58:11 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:59:23 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:59:27 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:59:28 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:59:29 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:59:49 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:59:53 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:59:55 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:59:56 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 17:59:58 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 17:59:59 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:00:03 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:00:04 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:00:04 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:00:31 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:00:57 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:00:58 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:01:16 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:01:33 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:01:35 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:01:36 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:02:08 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:02:11 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:02:34 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 18:03:00 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:03:01 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:03:05 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:03:06 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:03:07 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:03:07 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:03:07 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:03:20 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 18:03:43 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 18:04:27 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:04:58 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:05:00 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:05:01 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:05:18 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:05:35 | username: theonlysnail | message: ?
+timestamp: 25 Apr 2016 18:05:49 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:06:06 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:06:13 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:06:34 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:06:36 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:06:52 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:07:21 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:07:22 | username: vatsaljayaswal | message: i don't think my livestream is right
+timestamp: 25 Apr 2016 18:07:22 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:07:45 | username: nets213 | message: it's a little laggy because twitch is slow unfortunately. we can't speed up their servers
+timestamp: 25 Apr 2016 18:07:46 | username: theonlysnail | message: yeah it lags :p
+timestamp: 25 Apr 2016 18:08:04 | username: nets213 | message: though your commands are being input into the computer in real-time
+timestamp: 25 Apr 2016 18:08:15 | username: vatsaljayaswal | message: ah, alright. so is there someone on the other end manually inputting commands?
+timestamp: 25 Apr 2016 18:08:19 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:08:20 | username: nets213 | message: nope
+timestamp: 25 Apr 2016 18:08:21 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:08:28 | username: vatsaljayaswal | message: ah, i felt guilty lol
+timestamp: 25 Apr 2016 18:09:00 | username: nets213 | message: nah we'd fail the project. so we just pulled from the twitch api and used a keypresser python add-on to punch keys
+timestamp: 25 Apr 2016 18:09:11 | username: vatsaljayaswal | message: oh alright
+timestamp: 25 Apr 2016 18:09:28 | username: vatsaljayaswal | message: can i bill ccb for this conversation i'm having with you
+timestamp: 25 Apr 2016 18:09:36 | username: vatsaljayaswal | message: in points
+timestamp: 25 Apr 2016 18:09:52 | username: nets213 | message: yeah totes
+timestamp: 25 Apr 2016 18:10:19 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:10:22 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:10:35 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:11:10 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:11:11 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:11:26 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:11:31 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:11:39 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:11:41 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:11:42 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:12:03 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:12:09 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:12:31 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:12:34 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:12:36 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:13:16 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:13:56 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:13:57 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:14:19 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:14:19 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:15:03 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:15:25 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:15:39 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:16:07 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:16:08 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:16:09 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:16:10 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:16:18 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:16:43 | username: theonlysnail | message: upup
+timestamp: 25 Apr 2016 18:16:50 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:17:05 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:17:12 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:17:13 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:17:18 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:17:35 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 18:17:55 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:17:56 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:18:04 | username: susanhao | message: up
+timestamp: 25 Apr 2016 18:18:20 | username: susanhao | message: down
+timestamp: 25 Apr 2016 18:18:36 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:18:36 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:18:36 | username: susanhao | message: down
+timestamp: 25 Apr 2016 18:18:37 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:18:37 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:18:45 | username: susanhao | message: right
+timestamp: 25 Apr 2016 18:18:55 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:18:55 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:19:05 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:19:12 | username: susanhao | message: right
+timestamp: 25 Apr 2016 18:19:21 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:19:28 | username: susanhao | message: down
+timestamp: 25 Apr 2016 18:19:41 | username: theonlysnail | message: guys, we should keep the biggest number in the corner
+timestamp: 25 Apr 2016 18:19:52 | username: eternal_hots | message: we messed it up
+timestamp: 25 Apr 2016 18:19:52 | username: susanhao | message: down then?
+timestamp: 25 Apr 2016 18:19:53 | username: eternal_hots | message: lol
+timestamp: 25 Apr 2016 18:19:56 | username: vatsaljayaswal | message: lol
+timestamp: 25 Apr 2016 18:20:06 | username: vatsaljayaswal | message: wait the screen doesn't update fast enough
+timestamp: 25 Apr 2016 18:20:12 | username: vatsaljayaswal | message: sorry for whining about this lol
+timestamp: 25 Apr 2016 18:20:12 | username: nets213 | message: let me try and save you
+timestamp: 25 Apr 2016 18:20:14 | username: susanhao | message: ^agree
+timestamp: 25 Apr 2016 18:20:14 | username: nets213 | message: left
+timestamp: 25 Apr 2016 18:20:16 | username: vatsaljayaswal | message: i'm just bad
+timestamp: 25 Apr 2016 18:20:17 | username: nets213 | message: up
+timestamp: 25 Apr 2016 18:20:20 | username: nets213 | message: right
+timestamp: 25 Apr 2016 18:20:22 | username: nets213 | message: right
+timestamp: 25 Apr 2016 18:20:23 | username: nets213 | message: up
+timestamp: 25 Apr 2016 18:20:26 | username: nets213 | message: down
+timestamp: 25 Apr 2016 18:20:27 | username: nets213 | message: up
+timestamp: 25 Apr 2016 18:20:29 | username: nets213 | message: down
+timestamp: 25 Apr 2016 18:20:30 | username: nets213 | message: up
+timestamp: 25 Apr 2016 18:20:32 | username: nets213 | message: down
+timestamp: 25 Apr 2016 18:20:34 | username: nets213 | message: up
+timestamp: 25 Apr 2016 18:20:38 | username: vatsaljayaswal | message: ooh a 512
+timestamp: 25 Apr 2016 18:20:38 | username: nets213 | message: right
+timestamp: 25 Apr 2016 18:20:41 | username: nets213 | message: left
+timestamp: 25 Apr 2016 18:20:46 | username: nets213 | message: *** ok this is not working
+timestamp: 25 Apr 2016 18:21:01 | username: eternal_hots | message: rip
+timestamp: 25 Apr 2016 18:21:02 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:21:03 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:21:04 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:21:04 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:21:05 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:21:11 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:21:12 | username: nets213 | message: just try and save the 512
+timestamp: 25 Apr 2016 18:21:56 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:22:17 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:22:17 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:22:36 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:22:59 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:23:08 | username: nets213 | message: this is grim
+timestamp: 25 Apr 2016 18:23:47 | username: theonlysnail | message: #lostcause
+timestamp: 25 Apr 2016 18:23:51 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:23:56 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:24:03 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:24:20 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:24:20 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 18:24:21 | username: eternal_hots | message: rip
+timestamp: 25 Apr 2016 18:24:22 | username: eternal_hots | message: :(
+timestamp: 25 Apr 2016 18:24:57 | username: vatsaljayaswal | message: rip
+timestamp: 25 Apr 2016 18:25:03 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:25:17 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 18:25:26 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:25:38 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 18:25:51 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 18:26:00 | username: vatsaljayaswal | message: ouch
+timestamp: 25 Apr 2016 18:26:05 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:26:40 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:26:46 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:27:01 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:27:13 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 18:27:13 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:27:28 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 18:27:54 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:27:56 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:27:58 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 18:28:04 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:28:18 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:28:26 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 18:28:34 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:28:57 | username: theonlysnail | message: hold on people
+timestamp: 25 Apr 2016 18:29:48 | username: vatsaljayaswal | message: i think a potential issue is that people text too fast, before seeing the screen update.
+timestamp: 25 Apr 2016 18:29:55 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 18:30:27 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 18:30:43 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 18:31:06 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:31:14 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:31:15 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:31:27 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:31:40 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:31:47 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:31:48 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:32:20 | username: theonlysnail | message: yeah i totally agree... let's try and keep this 512 in the corner
+timestamp: 25 Apr 2016 18:32:30 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:32:31 | username: nets213 | message: wow you saved it
+timestamp: 25 Apr 2016 18:32:36 | username: nets213 | message: wisdom of the crowds?
+timestamp: 25 Apr 2016 18:32:55 | username: mfogel | message: that should have been a left lol oops
+timestamp: 25 Apr 2016 18:33:15 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:33:27 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:33:29 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 18:33:29 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:33:31 | username: eternal_hots | message: nice
+timestamp: 25 Apr 2016 18:33:34 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:33:48 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:33:55 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:33:57 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:34:17 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:34:22 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:34:24 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:34:28 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 18:34:31 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:34:41 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:35:19 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:35:36 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:35:51 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:35:58 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:36:21 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:36:40 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:36:52 | username: mfogel | message: i got this
+timestamp: 25 Apr 2016 18:37:03 | username: mfogel | message: or maybe not
+timestamp: 25 Apr 2016 18:37:06 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 18:37:06 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:37:10 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 18:37:12 | username: mfogel | message: oh ya htere you go
+timestamp: 25 Apr 2016 18:37:27 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:37:29 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 18:37:39 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:37:42 | username: theonlysnail | message: good job guys
+timestamp: 25 Apr 2016 18:37:49 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:37:52 | username: mfogel | message: nice
+timestamp: 25 Apr 2016 18:38:01 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:38:08 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:38:08 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 18:38:25 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:39:25 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:39:34 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:39:42 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:39:47 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:40:02 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:40:07 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 18:40:21 | username: mfogel | message: @creators of this, when we input commands are you manually doing this or do you have code written that automatically does it? just curious
+timestamp: 25 Apr 2016 18:40:25 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 18:40:26 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:40:35 | username: nets213 | message: it's coded
+timestamp: 25 Apr 2016 18:40:38 | username: mfogel | message: nice
+timestamp: 25 Apr 2016 18:40:56 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:41:07 | username: nets213 | message: we've been messing around with the aggregation. so sometimes we go total anarchy where each command is input, other times we do majority vote with different quorums
+timestamp: 25 Apr 2016 18:41:30 | username: mfogel | message: do you have code on github that i can see for how you aggregate it? this is actually really interesting
+timestamp: 25 Apr 2016 18:41:33 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:41:52 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:42:07 | username: nets213 | message: yeah: https://github.com/ebrnstn/multiplay
+timestamp: 25 Apr 2016 18:42:13 | username: wimbo1111 | message: we have to ruin it
+timestamp: 25 Apr 2016 18:42:16 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:42:17 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:42:19 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:42:24 | username: vatsaljayaswal | message: jim wot
+timestamp: 25 Apr 2016 18:42:28 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:42:36 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:43:16 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:43:34 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:43:35 | username: theonlysnail | message: do you want to go up or right?
+timestamp: 25 Apr 2016 18:43:45 | username: mfogel | message: i think we keep 512 in the corner
+timestamp: 25 Apr 2016 18:44:00 | username: wimbo1111 | message: i think we should go right
+timestamp: 25 Apr 2016 18:44:08 | username: theonlysnail | message: okay
+timestamp: 25 Apr 2016 18:44:25 | username: mfogel | message: i really like what we have going with the 128 and 512, idk
+timestamp: 25 Apr 2016 18:44:30 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:44:34 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 18:44:35 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:44:42 | username: mfogel | message: esp. with the 64 there
+timestamp: 25 Apr 2016 18:44:57 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:45:00 | username: theonlysnail | message: great
+timestamp: 25 Apr 2016 18:45:02 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:45:14 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:45:24 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:45:52 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:46:06 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:46:08 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:46:48 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:47:08 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:47:11 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:47:55 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 18:48:29 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:48:44 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:48:50 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:49:03 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:49:04 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:49:24 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:49:27 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:49:32 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 18:49:38 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:49:58 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:50:01 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 18:50:02 | username: mfogel | message: lets goooooo
+timestamp: 25 Apr 2016 18:50:06 | username: mfogel | message: why right
+timestamp: 25 Apr 2016 18:50:09 | username: mfogel | message: we're so close
+timestamp: 25 Apr 2016 18:50:11 | username: theonlysnail | message: sorry i meant left
+timestamp: 25 Apr 2016 18:50:13 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:50:17 | username: mfogel | message: noooooooo
+timestamp: 25 Apr 2016 18:51:12 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:51:16 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:51:33 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:51:34 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:51:50 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 18:52:25 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:52:50 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:52:52 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:54:02 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:54:03 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:54:25 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 18:54:28 | username: mfogel | message: up
+timestamp: 25 Apr 2016 18:54:48 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:55:09 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:55:28 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:55:43 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:56:11 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 18:56:15 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:56:30 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:56:36 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:56:37 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 18:56:58 | username: mfogel | message: left
+timestamp: 25 Apr 2016 18:57:26 | username: mfogel | message: down
+timestamp: 25 Apr 2016 18:58:37 | username: theonlysnail | message: only way now is up or right :(
+timestamp: 25 Apr 2016 18:59:09 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 19:00:57 | username: theonlysnail | message: up
+timestamp: 25 Apr 2016 19:01:30 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 19:01:31 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 19:01:54 | username: theonlysnail | message: right
+timestamp: 25 Apr 2016 19:02:20 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 19:02:38 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 19:02:41 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 19:02:44 | username: theonlysnail | message: down
+timestamp: 25 Apr 2016 19:02:46 | username: theonlysnail | message: left
+timestamp: 25 Apr 2016 19:02:52 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:02:55 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:02:57 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:03:10 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:04:25 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:04:44 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 19:04:47 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:06:44 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 19:06:47 | username: mfogel | message: is this still working?
+timestamp: 25 Apr 2016 19:06:54 | username: mfogel | message: it hasn't responded to our moves in a little bit
+timestamp: 25 Apr 2016 19:08:39 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:09:09 | username: vatsaljayaswal | message: yeah i'm not sure
+timestamp: 25 Apr 2016 19:09:16 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:09:32 | username: wimbo1111 | message: had to do it
+timestamp: 25 Apr 2016 19:09:39 | username: vatsaljayaswal | message: also can i work on this for >2 hrs?
+timestamp: 25 Apr 2016 19:09:47 | username: wimbo1111 | message: go to lecture next time
+timestamp: 25 Apr 2016 19:10:27 | username: wimbo1111 | message: is it possible to play again?
+timestamp: 25 Apr 2016 19:10:33 | username: mfogel | message: yeah let's do it again, this is fun
+timestamp: 25 Apr 2016 19:11:02 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:12:09 | username: vatsaljayaswal | message: try again
+timestamp: 25 Apr 2016 19:12:16 | username: wimbo1111 | message: try again
+timestamp: 25 Apr 2016 19:13:05 | username: vatsaljayaswal | message: nets213 u there
+timestamp: 25 Apr 2016 19:13:22 | username: mfogel | message: @nets213
+timestamp: 25 Apr 2016 19:13:29 | username: mfogel | message: @nets213 can we start this up again
+timestamp: 25 Apr 2016 19:30:14 | username: wimbo1111 | message: nets 213?
+timestamp: 25 Apr 2016 19:41:22 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 19:41:24 | username: aashbrownie | message: uo
+timestamp: 25 Apr 2016 19:41:25 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 19:41:58 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:42:22 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 19:42:25 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 19:42:46 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:42:51 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 19:42:59 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 19:43:07 | username: mfogel | message: is this working again?
+timestamp: 25 Apr 2016 19:43:12 | username: aashbrownie | message: yes, it is on again
+timestamp: 25 Apr 2016 19:43:16 | username: mfogel | message: lets goooo
+timestamp: 25 Apr 2016 19:43:22 | username: aashbrownie | message: this time it will aggregates 3 inputs at a time
+timestamp: 25 Apr 2016 19:43:23 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 19:43:27 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:43:34 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:43:35 | username: mfogel | message: how do we record "screens of data" for this in the survey?
+timestamp: 25 Apr 2016 19:43:48 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 19:43:49 | username: mfogel | message: like it doesn't make sense to take a screenshot every time we write a command
+timestamp: 25 Apr 2016 19:43:50 | username: mfogel | message: @nets213
+timestamp: 25 Apr 2016 19:43:55 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:44:00 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:44:03 | username: aashbrownie | message: i'm not sure
+timestamp: 25 Apr 2016 19:44:21 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:44:43 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:44:50 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 19:45:12 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:45:14 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:45:29 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:45:36 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 19:45:44 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 19:45:58 | username: mfogel | message: down
+timestamp: 25 Apr 2016 19:46:12 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:46:43 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 19:46:47 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 19:46:53 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:47:17 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 19:47:22 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:47:52 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:47:57 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 19:48:02 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 19:48:08 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 19:48:11 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 19:48:12 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:48:13 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:48:30 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:48:31 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 19:48:35 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 19:48:41 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:48:52 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:48:55 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 19:49:04 | username: mfogel | message: right
+timestamp: 25 Apr 2016 19:49:19 | username: mfogel | message: right
+timestamp: 25 Apr 2016 19:49:29 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:49:31 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 19:49:36 | username: mfogel | message: right
+timestamp: 25 Apr 2016 19:49:36 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:49:40 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:49:47 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:50:12 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:50:32 | username: mfogel | message: right
+timestamp: 25 Apr 2016 19:50:34 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:50:38 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 19:50:48 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 19:50:52 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:50:54 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 19:50:57 | username: vatsaljayaswal | message: nooo
+timestamp: 25 Apr 2016 19:51:00 | username: mfogel | message: up!!!
+timestamp: 25 Apr 2016 19:51:11 | username: vatsaljayaswal | message: then we lose a 16
+timestamp: 25 Apr 2016 19:51:16 | username: vatsaljayaswal | message: and therefore a 32
+timestamp: 25 Apr 2016 19:51:20 | username: vatsaljayaswal | message: we could go left
+timestamp: 25 Apr 2016 19:51:21 | username: mfogel | message: we have plenty of time to get it higher in the corner
+timestamp: 25 Apr 2016 19:51:22 | username: mfogel | message: we good
+timestamp: 25 Apr 2016 19:51:23 | username: vatsaljayaswal | message: then up
+timestamp: 25 Apr 2016 19:51:26 | username: mfogel | message: yea left is good now
+timestamp: 25 Apr 2016 19:51:26 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:51:34 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 19:51:40 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 19:51:54 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:51:57 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 19:52:08 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 19:52:16 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:52:22 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:52:29 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:52:30 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 19:52:31 | username: weregettingthere | message: mitch?
+timestamp: 25 Apr 2016 19:52:31 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 19:52:37 | username: mfogel | message: nooooo
+timestamp: 25 Apr 2016 19:52:44 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:52:54 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:53:37 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:53:38 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:53:44 | username: weregettingthere | message: down
+timestamp: 25 Apr 2016 19:53:57 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:54:16 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:54:17 | username: weregettingthere | message: down
+timestamp: 25 Apr 2016 19:54:24 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:54:34 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 19:54:37 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:54:46 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:54:52 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:54:58 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:54:58 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:55:00 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:55:15 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:55:52 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:56:14 | username: mfogel | message: up
+timestamp: 25 Apr 2016 19:56:28 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 19:56:52 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 19:56:56 | username: mfogel | message: right
+timestamp: 25 Apr 2016 19:57:09 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 19:57:27 | username: mfogel | message: right
+timestamp: 25 Apr 2016 19:57:34 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 19:58:03 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:58:36 | username: mfogel | message: left
+timestamp: 25 Apr 2016 19:59:01 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:00:00 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:00:06 | username: mfogel | message: am i playing by myself? lol
+timestamp: 25 Apr 2016 20:00:06 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 20:00:12 | username: vatsaljayaswal | message: lol i'm here
+timestamp: 25 Apr 2016 20:00:19 | username: wimbo1111 | message: no
+timestamp: 25 Apr 2016 20:00:21 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 20:00:24 | username: mfogel | message: haha ok good just making sure
+timestamp: 25 Apr 2016 20:00:25 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:00:31 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:00:34 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 20:00:48 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:00:50 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:00:56 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:00:59 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:01:12 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:01:34 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:01:47 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 20:01:51 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:01:52 | username: mengster2016 | message: up
+timestamp: 25 Apr 2016 20:01:57 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 20:02:03 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:02:04 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:02:07 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:02:18 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:02:51 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:03:04 | username: susanhao | message: down
+timestamp: 25 Apr 2016 20:03:18 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:03:29 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 20:03:30 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:03:41 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:03:49 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:03:51 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:04:28 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:04:46 | username: susanhao | message: up
+timestamp: 25 Apr 2016 20:05:01 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:05:09 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:05:21 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:05:21 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:05:36 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:05:46 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:05:57 | username: susanhao | message: left
+timestamp: 25 Apr 2016 20:06:01 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:06:23 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:06:39 | username: susanhao | message: right
+timestamp: 25 Apr 2016 20:06:53 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:06:56 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:07:07 | username: mfogel | message: down
+timestamp: 25 Apr 2016 20:07:10 | username: mengster2016 | message: up
+timestamp: 25 Apr 2016 20:07:13 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:07:21 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:07:41 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:08:05 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:08:09 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 20:08:32 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:08:44 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:08:54 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 20:08:56 | username: susanhao | message: left
+timestamp: 25 Apr 2016 20:08:56 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:09:00 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:09:01 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:09:03 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 20:09:09 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:09:28 | username: susanhao | message: down
+timestamp: 25 Apr 2016 20:09:29 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:09:50 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:09:54 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 20:09:56 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:10:03 | username: vatsaljayaswal | message: dude rigth then up
+timestamp: 25 Apr 2016 20:10:08 | username: wimbo1111 | message: never go right
+timestamp: 25 Apr 2016 20:10:12 | username: wimbo1111 | message: when you dont have to
+timestamp: 25 Apr 2016 20:10:20 | username: wimbo1111 | message: actually right
+timestamp: 25 Apr 2016 20:10:21 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 20:10:21 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 20:10:23 | username: vatsaljayaswal | message: lol
+timestamp: 25 Apr 2016 20:10:24 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:10:28 | username: mfogel | message: wait what don't go right haha
+timestamp: 25 Apr 2016 20:10:30 | username: mfogel | message: keep 64 in the corner
+timestamp: 25 Apr 2016 20:10:33 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:10:37 | username: wimbo1111 | message: it'lls tay in the corner
+timestamp: 25 Apr 2016 20:10:43 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:10:45 | username: mfogel | message: might lose the 16 tho
+timestamp: 25 Apr 2016 20:10:47 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 20:10:49 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:10:51 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:10:56 | username: wimbo1111 | message: 16 will combine with the other 16
+timestamp: 25 Apr 2016 20:11:03 | username: mengster2016 | message: up
+timestamp: 25 Apr 2016 20:11:04 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 20:11:12 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 20:11:13 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:11:23 | username: susanhao | message: right
+timestamp: 25 Apr 2016 20:11:33 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:11:52 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:12:10 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:12:33 | username: susanhao | message: left
+timestamp: 25 Apr 2016 20:12:40 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:12:53 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:12:53 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:13:10 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:13:24 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:13:49 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:13:53 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:14:23 | username: mengster2016 | message: up
+timestamp: 25 Apr 2016 20:14:31 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:14:52 | username: susanhao | message: left
+timestamp: 25 Apr 2016 20:14:53 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:20:08 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:20:38 | username: susanhao | message: left
+timestamp: 25 Apr 2016 20:22:25 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:23:15 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:24:33 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:24:45 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:24:47 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:25:10 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:25:16 | username: susanhao | message: left
+timestamp: 25 Apr 2016 20:25:23 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:25:44 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:28:31 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:28:44 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:29:44 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:29:46 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:29:51 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:30:40 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:31:47 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:33:09 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:33:10 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:33:54 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:34:01 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:34:05 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:34:30 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:35:44 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:36:24 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:36:54 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:38:35 | username: mfogel | message: left
+timestamp: 25 Apr 2016 20:39:58 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:40:31 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:40:32 | username: mfogel | message: up
+timestamp: 25 Apr 2016 20:40:59 | username: aashbrownie | message: oh no
+timestamp: 25 Apr 2016 20:41:36 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:41:37 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 20:41:42 | username: mengster2016 | message: right
+timestamp: 25 Apr 2016 20:42:09 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 20:42:46 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 20:43:01 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 20:43:02 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:43:04 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:43:11 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:43:12 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 20:43:22 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 20:43:44 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:44:28 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:46:24 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:47:02 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:47:58 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:48:00 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:50:06 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:50:29 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 20:50:51 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 20:51:13 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:51:20 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:51:26 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 20:51:45 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 20:52:40 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:53:12 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 20:54:27 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 20:54:57 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:54:59 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 20:55:13 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:55:14 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 20:55:15 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 20:55:31 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:55:34 | username: rizikin | message: left
+timestamp: 25 Apr 2016 20:55:47 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 20:55:57 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 20:56:09 | username: rizikin | message: right
+timestamp: 25 Apr 2016 20:56:54 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 20:57:16 | username: rizikin | message: right
+timestamp: 25 Apr 2016 20:57:39 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:57:40 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 20:57:57 | username: rizikin | message: up
+timestamp: 25 Apr 2016 20:58:04 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 20:58:19 | username: person57 | message: up
+timestamp: 25 Apr 2016 20:58:28 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:58:35 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 20:58:38 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:58:44 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 20:58:52 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 20:58:52 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 20:58:53 | username: person57 | message: left
+timestamp: 25 Apr 2016 20:58:54 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 20:58:55 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 20:58:56 | username: atinyvehicle | message: down
+timestamp: 25 Apr 2016 20:58:56 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 20:59:11 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 20:59:17 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:59:17 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 20:59:19 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 20:59:22 | username: atinyvehicle | message: right
+timestamp: 25 Apr 2016 20:59:42 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:00:00 | username: atinyvehicle | message: up
+timestamp: 25 Apr 2016 21:00:16 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:01:07 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 21:01:09 | username: atinyvehicle | message: bird jesus
+timestamp: 25 Apr 2016 21:01:21 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:01:44 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:02:01 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 21:02:04 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:02:21 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:02:26 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:02:29 | username: shoryamantry | message: down
+timestamp: 25 Apr 2016 21:02:39 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:02:44 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 21:02:49 | username: shoryamantry | message: down
+timestamp: 25 Apr 2016 21:02:58 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:03:05 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:03:19 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:03:28 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:03:47 | username: person57 | message: left
+timestamp: 25 Apr 2016 21:03:54 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:04:00 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 21:04:01 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 21:04:07 | username: person57 | message: right
+timestamp: 25 Apr 2016 21:04:11 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 21:04:16 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:04:18 | username: person57 | message: up
+timestamp: 25 Apr 2016 21:04:19 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:04:20 | username: person57 | message: down
+timestamp: 25 Apr 2016 21:04:22 | username: person57 | message: left
+timestamp: 25 Apr 2016 21:04:40 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:04:49 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:05:12 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:05:23 | username: shoryamantry | message: down
+timestamp: 25 Apr 2016 21:05:24 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:05:59 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:06:16 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:06:24 | username: rizikin | message: up
+timestamp: 25 Apr 2016 21:06:32 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:06:54 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:07:02 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:07:05 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:07:07 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:07:22 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:07:26 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:07:35 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 21:07:35 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:07:45 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:07:55 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:08:03 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:08:21 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:08:22 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:08:25 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:08:36 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 21:08:41 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:08:44 | username: person57 | message: right
+timestamp: 25 Apr 2016 21:08:45 | username: person57 | message: down
+timestamp: 25 Apr 2016 21:08:47 | username: person57 | message: up
+timestamp: 25 Apr 2016 21:09:09 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:09:12 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 21:09:38 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:09:40 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:10:01 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:10:06 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:11:21 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 21:11:23 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:11:27 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:11:32 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:11:40 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 21:11:46 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:11:48 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 21:11:49 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 21:11:50 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:11:52 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:11:55 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:12:10 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:12:12 | username: vatsaljayaswal | message: again
+timestamp: 25 Apr 2016 21:12:35 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:12:38 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:12:44 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:13:31 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:14:13 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:14:13 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:14:26 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 21:14:50 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:14:52 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:14:52 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:15:51 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 21:15:52 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:15:53 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:16:01 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 21:16:02 | username: rizikin | message: up
+timestamp: 25 Apr 2016 21:16:40 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:16:52 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:17:33 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:18:00 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:18:13 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 21:19:52 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 21:19:54 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 21:20:14 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 21:20:21 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 21:20:45 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 21:20:46 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 21:20:47 | username: aashbrownie | message: left
+timestamp: 25 Apr 2016 21:21:06 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:21:20 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 21:21:26 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:21:26 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:21:27 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:21:28 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:21:33 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:21:37 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:21:43 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 21:21:44 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:21:45 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:21:50 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 21:22:05 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:22:08 | username: shoryamantry | message: down
+timestamp: 25 Apr 2016 21:22:11 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 21:22:12 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 21:22:13 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:22:15 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:22:20 | username: shoryamantry | message: up
+timestamp: 25 Apr 2016 21:22:27 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:22:29 | username: shoryamantry | message: right
+timestamp: 25 Apr 2016 21:22:32 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:22:48 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:22:51 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:23:08 | username: shoryamantry | message: left
+timestamp: 25 Apr 2016 21:23:12 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:23:28 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:23:38 | username: daksong | message: left
+timestamp: 25 Apr 2016 21:23:41 | username: rizikin | message: up
+timestamp: 25 Apr 2016 21:23:44 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:24:11 | username: daksong | message: left
+timestamp: 25 Apr 2016 21:25:25 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 21:25:27 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:25:50 | username: daksong | message: left
+timestamp: 25 Apr 2016 21:26:09 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:26:15 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:26:16 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:26:18 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:26:43 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:26:53 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:26:57 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 21:27:03 | username: aashbrownie | message: up
+timestamp: 25 Apr 2016 21:27:08 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:27:40 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:28:27 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:28:28 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:28:39 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:29:08 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:29:09 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:29:43 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:29:49 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:30:16 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:30:27 | username: rizikin | message: up
+timestamp: 25 Apr 2016 21:30:39 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:30:41 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:31:15 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 21:31:16 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:31:17 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:31:26 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:31:37 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:31:41 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:31:48 | username: magictumor | message: graham ur wrong
+timestamp: 25 Apr 2016 21:31:53 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:31:56 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:32:09 | username: sumitzster | message: rekt
+timestamp: 25 Apr 2016 21:32:14 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:32:17 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 21:32:17 | username: magictumor | message: leftt
+timestamp: 25 Apr 2016 21:32:20 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:32:26 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:32:39 | username: mengster2016 | message: right
+timestamp: 25 Apr 2016 21:32:39 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:32:48 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:32:54 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:33:29 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:33:32 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:33:41 | username: magictumor | message: down pls
+timestamp: 25 Apr 2016 21:33:57 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:34:33 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 21:34:34 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:34:34 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:35:00 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:35:06 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:35:07 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:35:11 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 21:35:41 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:35:42 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:36:23 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:36:28 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 21:36:36 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:36:37 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:36:41 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 21:36:46 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:36:46 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:36:48 | username: rizikin | message: up
+timestamp: 25 Apr 2016 21:36:59 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:37:02 | username: magictumor | message: noo
+timestamp: 25 Apr 2016 21:37:03 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:37:11 | username: aashbrownie | message: down
+timestamp: 25 Apr 2016 21:37:15 | username: aashbrownie | message: right
+timestamp: 25 Apr 2016 21:37:17 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:37:17 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:37:35 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:37:57 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:38:44 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:38:46 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 21:39:14 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:39:37 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:39:40 | username: wimbo1111 | message: u
+timestamp: 25 Apr 2016 21:39:42 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:39:54 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:40:19 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:41:14 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:41:20 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:41:28 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 21:41:28 | username: rizikin | message: up
+timestamp: 25 Apr 2016 21:41:38 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:41:53 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:41:54 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:41:54 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:42:04 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:42:08 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 21:42:09 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:42:16 | username: ionianhetairoi | message: start9
+timestamp: 25 Apr 2016 21:42:21 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 21:42:31 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:42:36 | username: mengster2016 | message: start9
+timestamp: 25 Apr 2016 21:42:38 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 21:42:39 | username: mengster2016 | message: right
+timestamp: 25 Apr 2016 21:42:44 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:42:45 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 21:43:05 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 21:43:06 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:43:15 | username: magictumor | message: lef
+timestamp: 25 Apr 2016 21:43:16 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:43:38 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:44:05 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:44:07 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:44:10 | username: ionianhetairoi | message: down
+timestamp: 25 Apr 2016 21:44:24 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:44:26 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 21:44:35 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:44:57 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:45:01 | username: sumitzster | message: jk down
+timestamp: 25 Apr 2016 21:45:04 | username: magictumor | message: ayy
+timestamp: 25 Apr 2016 21:45:05 | username: ionianhetairoi | message: down
+timestamp: 25 Apr 2016 21:45:07 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:45:11 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:45:18 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:45:20 | username: rizikin | message: down
+timestamp: 25 Apr 2016 21:45:33 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 21:45:36 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:45:47 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:45:48 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 21:45:49 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:45:50 | username: magictumor | message: right
+timestamp: 25 Apr 2016 21:46:05 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:46:07 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 21:46:13 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:46:16 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:46:19 | username: magictumor | message: down
+timestamp: 25 Apr 2016 21:46:19 | username: ionianhetairoi | message: anarchy
+timestamp: 25 Apr 2016 21:46:24 | username: magictumor | message: democracy
+timestamp: 25 Apr 2016 21:46:27 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 21:46:32 | username: rizikin | message: start9
+timestamp: 25 Apr 2016 21:46:38 | username: magictumor | message: up
+timestamp: 25 Apr 2016 21:46:39 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:46:41 | username: magictumor | message: uppp
+timestamp: 25 Apr 2016 21:46:42 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:46:47 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 21:46:49 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 21:46:49 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:46:51 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:46:53 | username: rizikin | message: up
+timestamp: 25 Apr 2016 21:47:03 | username: ionianhetairoi | message: right kappa
+timestamp: 25 Apr 2016 21:47:06 | username: magictumor | message: its happening
+timestamp: 25 Apr 2016 21:47:06 | username: sumitzster | message: rekt
+timestamp: 25 Apr 2016 21:47:10 | username: magictumor | message: left
+timestamp: 25 Apr 2016 21:47:10 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:47:14 | username: sumitzster | message: 3 more minutes, pls
+timestamp: 25 Apr 2016 21:47:19 | username: sumitzster | message: stall
+timestamp: 25 Apr 2016 21:47:20 | username: grahammmmm | message: noo
+timestamp: 25 Apr 2016 21:47:22 | username: grahammmmm | message: left
+timestamp: 25 Apr 2016 21:47:26 | username: magictumor | message: we need to win
+timestamp: 25 Apr 2016 21:47:29 | username: ionianhetairoi | message: down
+timestamp: 25 Apr 2016 21:47:32 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:47:32 | username: rizikin | message: left
+timestamp: 25 Apr 2016 21:47:35 | username: magictumor | message: up
+timestamp: 25 Apr 2016 21:47:41 | username: sumitzster | message: up
+timestamp: 25 Apr 2016 21:47:45 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:47:56 | username: magictumor | message: wtf
+timestamp: 25 Apr 2016 21:48:01 | username: sumitzster | message: the end is near
+timestamp: 25 Apr 2016 21:48:02 | username: wimbo1111 | message: dow
+timestamp: 25 Apr 2016 21:48:02 | username: ionianhetairoi | message: down
+timestamp: 25 Apr 2016 21:48:03 | username: rizikin | message: down
+timestamp: 25 Apr 2016 21:48:05 | username: grahammmmm | message: down
+timestamp: 25 Apr 2016 21:48:06 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 21:48:06 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 21:48:09 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 21:48:17 | username: grahammmmm | message: right
+timestamp: 25 Apr 2016 21:48:19 | username: sumitzster | message: rekt
+timestamp: 25 Apr 2016 21:48:23 | username: rizikin | message: nooooo
+timestamp: 25 Apr 2016 21:48:24 | username: wimbo1111 | message: dow
+timestamp: 25 Apr 2016 21:48:26 | username: vatsaljayaswal | message: rekt
+timestamp: 25 Apr 2016 21:48:26 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 21:48:29 | username: vatsaljayaswal | message: rekt
+timestamp: 25 Apr 2016 21:48:29 | username: grahammmmm | message: downnnnnn
+timestamp: 25 Apr 2016 21:48:31 | username: vatsaljayaswal | message: rekt
+timestamp: 25 Apr 2016 21:48:32 | username: wimbo1111 | message: rekt
+timestamp: 25 Apr 2016 21:48:32 | username: magictumor | message: we did it
+timestamp: 25 Apr 2016 21:48:33 | username: wimbo1111 | message: rekt
+timestamp: 25 Apr 2016 21:48:34 | username: sumitzster | message: gg
+timestamp: 25 Apr 2016 21:48:39 | username: rizikin | message: ggwp
+timestamp: 25 Apr 2016 21:48:40 | username: vatsaljayaswal | message: ok
+timestamp: 25 Apr 2016 21:48:42 | username: vatsaljayaswal | message: new gam
+timestamp: 25 Apr 2016 21:48:51 | username: sumitzster | message: 7pm let's play
+timestamp: 25 Apr 2016 21:48:52 | username: vatsaljayaswal | message: anyone listening
+timestamp: 25 Apr 2016 21:49:07 | username: sumitzster | message: lol
+timestamp: 25 Apr 2016 21:49:13 | username: vatsaljayaswal | message: can i log hours after the game ends, that is the real question
+timestamp: 25 Apr 2016 21:49:20 | username: magictumor | message: ez
+timestamp: 25 Apr 2016 21:49:24 | username: wimbo1111 | message: do it
+timestamp: 25 Apr 2016 21:49:24 | username: magictumor | message: lol
+timestamp: 25 Apr 2016 21:49:26 | username: ionianhetairoi | message: lol
+timestamp: 25 Apr 2016 21:49:26 | username: magictumor | message: you wont
+timestamp: 25 Apr 2016 21:49:45 | username: wimbo1111 | message: no balls
+timestamp: 25 Apr 2016 21:50:30 | username: ionianhetairoi | message: !raffle
+timestamp: 25 Apr 2016 21:51:34 | username: rizikin | message: kappa
+timestamp: 25 Apr 2016 21:51:48 | username: mengster2016 | message: whattt
+timestamp: 25 Apr 2016 22:57:07 | username: ionianhetairoi | message: hi nets213
+timestamp: 25 Apr 2016 22:57:55 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 22:58:18 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 22:58:27 | username: ionianhetairoi | message: wait i'm a dumbass
+timestamp: 25 Apr 2016 22:58:38 | username: unicornfurys | message: who is ionianhetairoi
+timestamp: 25 Apr 2016 22:58:50 | username: ionianhetairoi | message: a dumbass
+timestamp: 25 Apr 2016 22:59:05 | username: unicornfurys | message: fate zero fan?
+timestamp: 25 Apr 2016 22:59:15 | username: unicornfurys | message: down
+timestamp: 25 Apr 2016 22:59:15 | username: ionianhetairoi | message: ofcourse
+timestamp: 25 Apr 2016 22:59:22 | username: unicornfurys | message: left
+timestamp: 25 Apr 2016 22:59:23 | username: unicornfurys | message: right
+timestamp: 25 Apr 2016 22:59:33 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 22:59:37 | username: unicornfurys | message: mother of
+timestamp: 25 Apr 2016 22:59:40 | username: ionianhetairoi | message: start9
+timestamp: 25 Apr 2016 22:59:49 | username: unicornfurys | message: down3
+timestamp: 25 Apr 2016 22:59:55 | username: unicornfurys | message: down
+timestamp: 25 Apr 2016 22:59:57 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:00:04 | username: unicornfurys | message: why are you a mod
+timestamp: 25 Apr 2016 23:00:13 | username: unicornfurys | message: make me a mod
+timestamp: 25 Apr 2016 23:00:15 | username: unicornfurys | message: oh yes
+timestamp: 25 Apr 2016 23:00:16 | username: nets213 | message: you are
+timestamp: 25 Apr 2016 23:00:17 | username: unicornfurys | message: oh baby
+timestamp: 25 Apr 2016 23:00:20 | username: ionianhetairoi | message: wtf why are you a mod
+timestamp: 25 Apr 2016 23:00:21 | username: unicornfurys | message: here we go boys
+timestamp: 25 Apr 2016 23:00:25 | username: nets213 | message: we have to make people mods so that you can repeatedly send messages
+timestamp: 25 Apr 2016 23:00:28 | username: unicornfurys | message: yes
+timestamp: 25 Apr 2016 23:00:30 | username: unicornfurys | message: tsm
+timestamp: 25 Apr 2016 23:00:32 | username: ionianhetairoi | message: tsm
+timestamp: 25 Apr 2016 23:00:37 | username: nets213 | message: otherwise twitch will prevent you from sending something like "up up up" because it thinks it's spam
+timestamp: 25 Apr 2016 23:00:40 | username: ionianhetairoi | message: #tsmwin
+timestamp: 25 Apr 2016 23:00:44 | username: unicornfurys | message: #clgwin
+timestamp: 25 Apr 2016 23:01:05 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:01:14 | username: ionianhetairoi | message: #aphromoocarrieddoubliftistrash
+timestamp: 25 Apr 2016 23:01:19 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:01:22 | username: unicornfurys | message: #stixaayy
+timestamp: 25 Apr 2016 23:01:30 | username: eternal_hots | message: lol wesley
+timestamp: 25 Apr 2016 23:01:31 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:01:31 | username: unicornfurys | message: #vulwin
+timestamp: 25 Apr 2016 23:01:38 | username: unicornfurys | message: who is eternal_hots
+timestamp: 25 Apr 2016 23:01:39 | username: spacedstations | message: ayy
+timestamp: 25 Apr 2016 23:01:42 | username: ionianhetairoi | message: #m5win
+timestamp: 25 Apr 2016 23:01:47 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:01:49 | username: unicornfurys | message: left
+timestamp: 25 Apr 2016 23:01:52 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:01:52 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 23:01:53 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:01:53 | username: unicornfurys | message: left
+timestamp: 25 Apr 2016 23:01:54 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 23:01:55 | username: unicornfurys | message: left
+timestamp: 25 Apr 2016 23:01:56 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:01:57 | username: eternal_hots | message: wait are you in this class??
+timestamp: 25 Apr 2016 23:02:02 | username: unicornfurys | message: nope
+timestamp: 25 Apr 2016 23:02:08 | username: unicornfurys | message: :^)
+timestamp: 25 Apr 2016 23:02:09 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:02:11 | username: unicornfurys | message: down
+timestamp: 25 Apr 2016 23:02:15 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:02:18 | username: unicornfurys | message: down
+timestamp: 25 Apr 2016 23:02:22 | username: eternal_hots | message: it's tony lol
+timestamp: 25 Apr 2016 23:02:22 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:02:25 | username: unicornfurys | message: ohhh
+timestamp: 25 Apr 2016 23:02:26 | username: unicornfurys | message: of course
+timestamp: 25 Apr 2016 23:02:28 | username: unicornfurys | message: hots
+timestamp: 25 Apr 2016 23:02:29 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:02:30 | username: eternal_hots | message: heroes of the storm account
+timestamp: 25 Apr 2016 23:02:32 | username: eternal_hots | message: wait no
+timestamp: 25 Apr 2016 23:02:35 | username: eternal_hots | message: u need to put it
+timestamp: 25 Apr 2016 23:02:36 | username: eternal_hots | message: in the corner
+timestamp: 25 Apr 2016 23:02:37 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:02:38 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:02:48 | username: unicornfurys | message: left
+timestamp: 25 Apr 2016 23:02:49 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:02:54 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:02:58 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:03:03 | username: unicornfurys | message: who's ionian then?
+timestamp: 25 Apr 2016 23:03:09 | username: unicornfurys | message: (irelia)
+timestamp: 25 Apr 2016 23:03:11 | username: nets213 | message: dang we're the most popular 2048 stream
+timestamp: 25 Apr 2016 23:03:14 | username: nets213 | message: what an honor
+timestamp: 25 Apr 2016 23:03:18 | username: unicornfurys | message: lol
+timestamp: 25 Apr 2016 23:03:22 | username: unicornfurys | message: #2048win
+timestamp: 25 Apr 2016 23:03:24 | username: eternal_hots | message: vohiyo
+timestamp: 25 Apr 2016 23:03:27 | username: ionianhetairoi | message: i'm jie from class
+timestamp: 25 Apr 2016 23:03:38 | username: eternal_hots | message: vohiyo vohiyo vohiyo vohiyo
+timestamp: 25 Apr 2016 23:03:38 | username: ionianhetairoi | message: right\
+timestamp: 25 Apr 2016 23:03:41 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:03:45 | username: unicornfurys | message: who's jie
+timestamp: 25 Apr 2016 23:03:49 | username: ionianhetairoi | message: me
+timestamp: 25 Apr 2016 23:03:52 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:03:53 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:03:53 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:03:56 | username: eternal_hots | message: down
+timestamp: 25 Apr 2016 23:03:56 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:03:57 | username: unicornfurys | message: right
+timestamp: 25 Apr 2016 23:03:57 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:04:01 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:04:02 | username: unicornfurys | message: right
+timestamp: 25 Apr 2016 23:04:03 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:04:05 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:04:13 | username: ionianhetairoi | message: oooohh my god
+timestamp: 25 Apr 2016 23:04:18 | username: unicornfurys | message: jie guo?
+timestamp: 25 Apr 2016 23:04:21 | username: ionianhetairoi | message: jie luo
+timestamp: 25 Apr 2016 23:04:28 | username: unicornfurys | message: jie luo?
+timestamp: 25 Apr 2016 23:04:29 | username: unicornfurys | message: o
+timestamp: 25 Apr 2016 23:04:31 | username: unicornfurys | message: oops
+timestamp: 25 Apr 2016 23:04:31 | username: ionianhetairoi | message: i'm on the league fb too
+timestamp: 25 Apr 2016 23:04:35 | username: unicornfurys | message: nice
+timestamp: 25 Apr 2016 23:04:37 | username: unicornfurys | message: same
+timestamp: 25 Apr 2016 23:04:45 | username: ionianhetairoi | message: not active tho, havent played for a while
+timestamp: 25 Apr 2016 23:05:03 | username: unicornfurys | message: "he looks asian"
+timestamp: 25 Apr 2016 23:05:03 | username: ionianhetairoi | message: don't like this season much
+timestamp: 25 Apr 2016 23:05:06 | username: unicornfurys | message: - my friend 2016
+timestamp: 25 Apr 2016 23:05:12 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:05:16 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 23:05:20 | username: unicornfurys | message: left
+timestamp: 25 Apr 2016 23:05:26 | username: unicornfurys | message: can't even go up anymore
+timestamp: 25 Apr 2016 23:05:34 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:05:39 | username: eternal_hots | message: we got our 16 block stuck
+timestamp: 25 Apr 2016 23:05:40 | username: eternal_hots | message: lol
+timestamp: 25 Apr 2016 23:05:44 | username: ionianhetairoi | message: ggboys
+timestamp: 25 Apr 2016 23:05:48 | username: eternal_hots | message: vohiyo
+timestamp: 25 Apr 2016 23:05:53 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:06:03 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:10:17 | username: nets213 | message: whoops sec
+timestamp: 25 Apr 2016 23:10:23 | username: darkpenncoder | message: plz
+timestamp: 25 Apr 2016 23:12:43 | username: darkpenncoder | message: up
+timestamp: 25 Apr 2016 23:13:00 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:13:05 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:13:29 | username: eternal_hots | message: anarchy
+timestamp: 25 Apr 2016 23:13:31 | username: nets213 | message: up
+timestamp: 25 Apr 2016 23:13:33 | username: nets213 | message: up
+timestamp: 25 Apr 2016 23:13:33 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:13:33 | username: nets213 | message: up
+timestamp: 25 Apr 2016 23:13:34 | username: nets213 | message: up
+timestamp: 25 Apr 2016 23:13:40 | username: eternal_hots | message: it's alive!!
+timestamp: 25 Apr 2016 23:13:51 | username: darkpenncoder | message: up
+timestamp: 25 Apr 2016 23:14:11 | username: eternal_hots | message: you could hire a crowdworker on mturk to sit there and input the buttons
+timestamp: 25 Apr 2016 23:14:15 | username: eternal_hots | message: instead of doing it automatically
+timestamp: 25 Apr 2016 23:14:16 | username: eternal_hots | message: :)
+timestamp: 25 Apr 2016 23:14:25 | username: ionianhetairoi | message: ...deilluminati
+timestamp: 25 Apr 2016 23:14:40 | username: ionianhetairoi | message: .. deilluminati
+timestamp: 25 Apr 2016 23:14:45 | username: ionianhetairoi | message: deilluminati deilluminati
+timestamp: 25 Apr 2016 23:14:54 | username: ionianhetairoi | message: dang
+timestamp: 25 Apr 2016 23:15:09 | username: nets213 | message: hey plz stop sending those emojis, apparently it's breaking our code lol
+timestamp: 25 Apr 2016 23:15:14 | username: darkpenncoder | message: yeah that'd be interesting
+timestamp: 25 Apr 2016 23:15:18 | username: darkpenncoder | message: lol
+timestamp: 25 Apr 2016 23:15:20 | username: ionianhetairoi | message: lol
+timestamp: 25 Apr 2016 23:15:31 | username: nets213 | message: idk i'm not actually in the room where the computer is but yeah
+timestamp: 25 Apr 2016 23:15:50 | username: nets213 | message: thanks for your cooperation bionicbunion
+timestamp: 25 Apr 2016 23:16:03 | username: nets213 | message: up
+timestamp: 25 Apr 2016 23:16:13 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:16:13 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:16:17 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:16:18 | username: darkpenncoder | message: left
+timestamp: 25 Apr 2016 23:16:33 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:16:33 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:16:59 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:17:18 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:17:34 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:17:34 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:17:35 | username: elizzleb | message: right
+timestamp: 25 Apr 2016 23:17:35 | username: elizzleb | message: left
+timestamp: 25 Apr 2016 23:17:36 | username: elizzleb | message: down
+timestamp: 25 Apr 2016 23:17:36 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:17:37 | username: elizzleb | message: right
+timestamp: 25 Apr 2016 23:17:38 | username: elizzleb | message: left
+timestamp: 25 Apr 2016 23:17:39 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:17:40 | username: elizzleb | message: down
+timestamp: 25 Apr 2016 23:17:40 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:17:42 | username: elizzleb | message: party
+timestamp: 25 Apr 2016 23:17:45 | username: elizzleb | message: ^^^^^^^^^^^^^^^^^^^^^^
+timestamp: 25 Apr 2016 23:17:48 | username: elizzleb | message: fat screen
+timestamp: 25 Apr 2016 23:17:50 | username: ionianhetairoi | message: camtours
+timestamp: 25 Apr 2016 23:17:58 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:17:58 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:18:06 | username: elizzleb | message: yo screen so fat
+timestamp: 25 Apr 2016 23:18:12 | username: ionianhetairoi | message: aspect ratio
+timestamp: 25 Apr 2016 23:18:18 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:18:19 | username: eternal_hots | message: up up down down left right left right b a start
+timestamp: 25 Apr 2016 23:18:47 | username: nets213 | message: deal with it
+timestamp: 25 Apr 2016 23:18:48 | username: ionianhetairoi | message: all hail the helix fossil
+timestamp: 25 Apr 2016 23:19:03 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:19:06 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:19:07 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:19:07 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:19:08 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:19:08 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:19:09 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:19:09 | username: elizzleb | message: up
+timestamp: 25 Apr 2016 23:19:12 | username: elizzleb | message: upupupupup
+timestamp: 25 Apr 2016 23:19:22 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:19:45 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:20:15 | username: eternal_hots | message: o man that brings back memories
+timestamp: 25 Apr 2016 23:20:31 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:20:44 | username: ionianhetairoi | message: right pls
+timestamp: 25 Apr 2016 23:20:50 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:21:40 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:21:54 | username: darkpenncoder | message: down
+timestamp: 25 Apr 2016 23:22:08 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:22:10 | username: ionianhetairoi | message: pls
+timestamp: 25 Apr 2016 23:22:14 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:22:15 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:22:15 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 23:22:34 | username: ionianhetairoi | message: gg boys
+timestamp: 25 Apr 2016 23:22:40 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:24:25 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:24:33 | username: darkpenncoder | message: up
+timestamp: 25 Apr 2016 23:24:45 | username: darkpenncoder | message: up
+timestamp: 25 Apr 2016 23:24:57 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 23:25:03 | username: unicornfurys | message: left
+timestamp: 25 Apr 2016 23:25:08 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:25:20 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 23:25:20 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:25:46 | username: darkpenncoder | message: left
+timestamp: 25 Apr 2016 23:26:13 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:26:30 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:26:31 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:26:31 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:26:33 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:26:37 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 23:26:39 | username: zhusteph | message: right
+timestamp: 25 Apr 2016 23:26:46 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:27:04 | username: zhusteph | message: up
+timestamp: 25 Apr 2016 23:27:21 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:27:31 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:27:44 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:27:45 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:27:46 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:27:49 | username: zhusteph | message: right
+timestamp: 25 Apr 2016 23:27:50 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 23:27:54 | username: ionianhetairoi | message: kreygasm
+timestamp: 25 Apr 2016 23:27:56 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:28:05 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:28:08 | username: zhusteph | message: up
+timestamp: 25 Apr 2016 23:28:22 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:28:46 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:28:51 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:28:52 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:28:52 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:28:52 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:28:53 | username: unicornfurys | message: up
+timestamp: 25 Apr 2016 23:28:56 | username: eternal_hots | message: we need to get it in the corner :(
+timestamp: 25 Apr 2016 23:29:09 | username: darkpenncoder | message: down
+timestamp: 25 Apr 2016 23:29:46 | username: ionianhetairoi | message: its all ogre now
+timestamp: 25 Apr 2016 23:30:03 | username: ionianhetairoi | message: down
+timestamp: 25 Apr 2016 23:30:30 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:30:33 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 23:30:34 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:30:37 | username: eternal_hots | message: left
+timestamp: 25 Apr 2016 23:30:37 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:30:58 | username: zhusteph | message: whyyyy
+timestamp: 25 Apr 2016 23:30:59 | username: darkpenncoder | message: down
+timestamp: 25 Apr 2016 23:31:18 | username: eternal_hots | message: noo
+timestamp: 25 Apr 2016 23:31:19 | username: eternal_hots | message: restart
+timestamp: 25 Apr 2016 23:31:36 | username: darkpenncoder | message: down
+timestamp: 25 Apr 2016 23:31:44 | username: darkpenncoder | message: left
+timestamp: 25 Apr 2016 23:31:46 | username: ionianhetairoi | message: ggboys
+timestamp: 25 Apr 2016 23:31:52 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:32:36 | username: ionianhetairoi | message: left down right up
+timestamp: 25 Apr 2016 23:32:45 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:32:45 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:32:48 | username: eternal_hots | message: idk if this can be saved
+timestamp: 25 Apr 2016 23:33:10 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:33:11 | username: eternal_hots | message: left?
+timestamp: 25 Apr 2016 23:33:35 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 23:34:08 | username: ionianhetairoi | message: ggboys
+timestamp: 25 Apr 2016 23:34:27 | username: ionianhetairoi | message: down
+timestamp: 25 Apr 2016 23:34:38 | username: ionianhetairoi | message: shoot
+timestamp: 25 Apr 2016 23:34:40 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:34:55 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 23:35:08 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 23:35:15 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:36:57 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:37:13 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:38:59 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:38:59 | username: eternal_hots | message: right
+timestamp: 25 Apr 2016 23:39:00 | username: eternal_hots | message: up
+timestamp: 25 Apr 2016 23:39:24 | username: darkpenncoder | message: down
+timestamp: 25 Apr 2016 23:39:45 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:39:46 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:40:01 | username: ionianhetairoi | message: salvageable
+timestamp: 25 Apr 2016 23:40:12 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 23:40:37 | username: vatsaljayaswal | message: get the 8 to the other side
+timestamp: 25 Apr 2016 23:40:53 | username: vatsaljayaswal | message: 4 16s, make 2 32s, make a 128 w the other 64
+timestamp: 25 Apr 2016 23:40:54 | username: ionianhetairoi | message: down
+timestamp: 25 Apr 2016 23:43:05 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 23:43:08 | username: vatsaljayaswal | message: no right
+timestamp: 25 Apr 2016 23:43:09 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:43:10 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:43:22 | username: vatsaljayaswal | message: rigjt
+timestamp: 25 Apr 2016 23:43:25 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:44:15 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:45:25 | username: darkpenncoder | message: up
+timestamp: 25 Apr 2016 23:45:51 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:46:26 | username: ionianhetairoi | message: right
+timestamp: 25 Apr 2016 23:47:18 | username: darkpenncoder | message: right
+timestamp: 25 Apr 2016 23:47:39 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 23:47:44 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 23:48:29 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 23:49:05 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 23:49:18 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 23:50:20 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:50:40 | username: vatsaljayaswal | message: uh oh
+timestamp: 25 Apr 2016 23:50:46 | username: vatsaljayaswal | message: down
+timestamp: 25 Apr 2016 23:51:09 | username: darkpenncoder | message: down
+timestamp: 25 Apr 2016 23:51:26 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 23:51:27 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 23:51:29 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 23:51:41 | username: unicornfurys | message: kappa
+timestamp: 25 Apr 2016 23:52:48 | username: vatsaljayaswal | message: up
+timestamp: 25 Apr 2016 23:53:00 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 23:53:03 | username: darkpenncoder | message: up
+timestamp: 25 Apr 2016 23:53:21 | username: ionianhetairoi | message: is it emotes that break code or just unicode
+timestamp: 25 Apr 2016 23:53:41 | username: ionianhetairoi | message: left
+timestamp: 25 Apr 2016 23:54:02 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 23:54:32 | username: vatsaljayaswal | message: left
+timestamp: 25 Apr 2016 23:54:37 | username: sumitzster | message: left
+timestamp: 25 Apr 2016 23:55:19 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 23:55:57 | username: wimbo1111 | message: right
+timestamp: 25 Apr 2016 23:56:09 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:56:17 | username: ionianhetairoi | message: up
+timestamp: 25 Apr 2016 23:56:37 | username: sumitzster | message: down
+timestamp: 25 Apr 2016 23:57:03 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 23:57:21 | username: wimbo1111 | message: up
+timestamp: 25 Apr 2016 23:57:51 | username: sumitzster | message: right
+timestamp: 25 Apr 2016 23:58:48 | username: vatsaljayaswal | message: right
+timestamp: 25 Apr 2016 23:58:49 | username: wimbo1111 | message: left
+timestamp: 25 Apr 2016 23:59:19 | username: wimbo1111 | message: down
+timestamp: 25 Apr 2016 23:59:57 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:01:16 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:02:38 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:03:06 | username: wimbo1111 | message: left
+timestamp: 26 Apr 2016 00:03:07 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:03:32 | username: vatsaljayaswal | message: left
+timestamp: 26 Apr 2016 00:04:13 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:04:47 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:05:57 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:06:13 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:06:32 | username: wimbo1111 | message: down
+timestamp: 26 Apr 2016 00:06:37 | username: unicornfurys | message: up
+timestamp: 26 Apr 2016 00:06:38 | username: unicornfurys | message: up
+timestamp: 26 Apr 2016 00:07:00 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:07:04 | username: wimbo1111 | message: right
+timestamp: 26 Apr 2016 00:07:05 | username: wimbo1111 | message: right
+timestamp: 26 Apr 2016 00:07:07 | username: sumitzster | message: right
+timestamp: 26 Apr 2016 00:07:09 | username: sumitzster | message: right
+timestamp: 26 Apr 2016 00:07:13 | username: sumitzster | message: right
+timestamp: 26 Apr 2016 00:07:26 | username: wimbo1111 | message: down
+timestamp: 26 Apr 2016 00:07:31 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:08:02 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:08:03 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 00:08:25 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:08:53 | username: ionianhetairoi | message: down
+timestamp: 26 Apr 2016 00:09:08 | username: ionianhetairoi | message: up
+timestamp: 26 Apr 2016 00:09:28 | username: wimbo1111 | message: down
+timestamp: 26 Apr 2016 00:09:34 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:09:35 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:10:01 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:10:15 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 00:10:30 | username: wimbo1111 | message: down
+timestamp: 26 Apr 2016 00:10:38 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:10:40 | username: wimbo1111 | message: up
+timestamp: 26 Apr 2016 00:10:46 | username: vatsaljayaswal | message: up
+timestamp: 26 Apr 2016 00:11:07 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:11:21 | username: ionianhetairoi | message: up
+timestamp: 26 Apr 2016 00:11:56 | username: ionianhetairoi | message: left
+timestamp: 26 Apr 2016 00:12:04 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:12:12 | username: wimbo1111 | message: right
+timestamp: 26 Apr 2016 00:14:25 | username: vatsaljayaswal | message: right
+timestamp: 26 Apr 2016 00:14:31 | username: vatsaljayaswal | message: no left
+timestamp: 26 Apr 2016 00:15:01 | username: ionianhetairoi | message: failfish
+timestamp: 26 Apr 2016 00:15:14 | username: ionianhetairoi | message: up
+timestamp: 26 Apr 2016 00:15:41 | username: ionianhetairoi | message: left
+timestamp: 26 Apr 2016 00:16:23 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:16:25 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 00:16:26 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:17:25 | username: ionianhetairoi | message: !raffle
+timestamp: 26 Apr 2016 00:17:55 | username: vatsaljayaswal | message: doown
+timestamp: 26 Apr 2016 00:17:56 | username: wimbo1111 | message: right
+timestamp: 26 Apr 2016 00:18:04 | username: wimbo1111 | message: doown
+timestamp: 26 Apr 2016 00:18:26 | username: ionianhetairoi | message: left
+timestamp: 26 Apr 2016 00:21:37 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:21:38 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:21:49 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 00:22:16 | username: spacedstations | message: up
+timestamp: 26 Apr 2016 00:22:26 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:22:46 | username: wimbo1111 | message: down
+timestamp: 26 Apr 2016 00:22:50 | username: wimbo1111 | message: up
+timestamp: 26 Apr 2016 00:22:52 | username: spacedstations | message: right
+timestamp: 26 Apr 2016 00:23:41 | username: spacedstations | message: right
+timestamp: 26 Apr 2016 00:23:56 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:24:17 | username: spacedstations | message: left
+timestamp: 26 Apr 2016 00:24:21 | username: wimbo1111 | message: up
+timestamp: 26 Apr 2016 00:24:41 | username: spacedstations | message: up
+timestamp: 26 Apr 2016 00:24:59 | username: spacedstations | message: up
+timestamp: 26 Apr 2016 00:25:05 | username: spacedstations | message: right
+timestamp: 26 Apr 2016 00:25:16 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:25:48 | username: ionianhetairoi | message: left
+timestamp: 26 Apr 2016 00:26:08 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:26:47 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:27:16 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 00:28:03 | username: wimbo1111 | message: left
+timestamp: 26 Apr 2016 00:28:08 | username: spacedstations | message: right
+timestamp: 26 Apr 2016 00:29:40 | username: spacedstations | message: right
+timestamp: 26 Apr 2016 00:29:41 | username: vatsaljayaswal | message: right
+timestamp: 26 Apr 2016 00:29:51 | username: vatsaljayaswal | message: this is looking meh
+timestamp: 26 Apr 2016 00:29:57 | username: spacedstations | message: down
+timestamp: 26 Apr 2016 00:31:59 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:32:00 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:33:03 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:33:07 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:33:09 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:33:42 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:33:43 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:33:46 | username: mic_wen | message: right\down
+timestamp: 26 Apr 2016 00:33:47 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:33:57 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:00 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:01 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:02 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:04 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:04 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:06 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:07 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:09 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:09 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:10 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:12 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:13 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:14 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:15 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:24 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:25 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:26 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:34:34 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:35 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:36 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 00:34:44 | username: wimbo1111 | message: up
+timestamp: 26 Apr 2016 00:34:45 | username: wimbo1111 | message: up
+timestamp: 26 Apr 2016 00:35:11 | username: wimbo1111 | message: up
+timestamp: 26 Apr 2016 00:35:50 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:35:52 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:36:13 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:36:52 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:36:54 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 00:37:11 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 00:37:13 | username: nets213 | message: down
+timestamp: 26 Apr 2016 00:37:45 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 00:37:46 | username: spacedstations | message: right
+timestamp: 26 Apr 2016 00:37:57 | username: spacedstations | message: down
+timestamp: 26 Apr 2016 00:38:13 | username: ionianhetairoi | message: down
+timestamp: 26 Apr 2016 00:38:23 | username: ionianhetairoi | message: up
+timestamp: 26 Apr 2016 00:38:37 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 00:38:51 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:39:43 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:40:20 | username: ionianhetairoi | message: left
+timestamp: 26 Apr 2016 00:41:02 | username: vatsaljayaswal | message: left
+timestamp: 26 Apr 2016 00:41:02 | username: sumitzster | message: right
+timestamp: 26 Apr 2016 00:41:06 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:41:08 | username: vatsaljayaswal | message: wait
+timestamp: 26 Apr 2016 00:41:11 | username: spacedstations | message: down
+timestamp: 26 Apr 2016 00:41:36 | username: vatsaljayaswal | message: up!! get 32 up, combine w32, combnie w 64
+timestamp: 26 Apr 2016 00:41:52 | username: ionianhetairoi | message: down
+timestamp: 26 Apr 2016 00:43:19 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:44:15 | username: sumitzster | message: soqn
+timestamp: 26 Apr 2016 00:44:17 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:44:49 | username: spacedstations | message: right
+timestamp: 26 Apr 2016 00:45:13 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 00:45:43 | username: mic_wen | message: right
+timestamp: 26 Apr 2016 00:46:02 | username: vatsaljayaswal | message: right
+timestamp: 26 Apr 2016 00:47:27 | username: sumitzster | message: down
+timestamp: 26 Apr 2016 00:50:00 | username: ionianhetairoi | message: down
+timestamp: 26 Apr 2016 00:50:33 | username: zhusteph | message: down
+timestamp: 26 Apr 2016 00:50:51 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 00:57:11 | username: sumitzster | message: left
+timestamp: 26 Apr 2016 00:58:40 | username: darkpenncoder | message: left
+timestamp: 26 Apr 2016 00:58:59 | username: darkpenncoder | message: down
+timestamp: 26 Apr 2016 01:01:08 | username: wimbo1111 | message: down
+timestamp: 26 Apr 2016 01:01:09 | username: vatsaljayaswal | message: down
+timestamp: 26 Apr 2016 01:01:11 | username: wimbo1111 | message: up
+timestamp: 26 Apr 2016 01:03:38 | username: zhusteph | message: left
+timestamp: 26 Apr 2016 01:03:41 | username: zhusteph | message: down
+timestamp: 26 Apr 2016 01:03:45 | username: zhusteph | message: left
+timestamp: 26 Apr 2016 01:03:46 | username: zhusteph | message: down
+timestamp: 26 Apr 2016 01:06:21 | username: darkpenncoder | message: right
+timestamp: 26 Apr 2016 01:07:15 | username: darkpenncoder | message: up
+timestamp: 26 Apr 2016 01:07:46 | username: zhusteph | message: down
+timestamp: 26 Apr 2016 01:07:54 | username: zhusteph | message: left
+timestamp: 26 Apr 2016 01:08:12 | username: zhusteph | message: left
+timestamp: 26 Apr 2016 01:08:50 | username: darkpenncoder | message: left
+timestamp: 26 Apr 2016 01:10:04 | username: darkpenncoder | message: left
+timestamp: 26 Apr 2016 01:11:52 | username: vatsaljayaswal | message: up
+timestamp: 26 Apr 2016 01:25:04 | username: darkpenncoder | message: down
+timestamp: 26 Apr 2016 01:25:45 | username: darkpenncoder | message: down
+timestamp: 26 Apr 2016 01:26:15 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:19 | username: mic_wen | message: left
+timestamp: 26 Apr 2016 01:26:20 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:22 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:24 | username: mic_wen | message: left
+timestamp: 26 Apr 2016 01:26:26 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:29 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:31 | username: mic_wen | message: left
+timestamp: 26 Apr 2016 01:26:33 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:35 | username: mic_wen | message: left
+timestamp: 26 Apr 2016 01:26:36 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:37 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:38 | username: mic_wen | message: left
+timestamp: 26 Apr 2016 01:26:40 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:41 | username: mic_wen | message: left
+timestamp: 26 Apr 2016 01:26:42 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:26:43 | username: mic_wen | message: left
+timestamp: 26 Apr 2016 01:26:44 | username: mic_wen | message: down
+timestamp: 26 Apr 2016 01:39:49 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 01:40:14 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 01:42:07 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 01:45:04 | username: nateselzer123 | message: how do i do this
+timestamp: 26 Apr 2016 01:45:25 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 01:45:50 | username: darkpenncoder | message: down
+timestamp: 26 Apr 2016 01:46:20 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 01:48:28 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 01:50:19 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 01:50:45 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 01:51:17 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 01:52:04 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 01:52:25 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 01:53:35 | username: zhusteph | message: down
+timestamp: 26 Apr 2016 01:53:38 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 01:53:40 | username: zhusteph | message: down
+timestamp: 26 Apr 2016 01:53:41 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 01:53:58 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 01:54:04 | username: zhusteph | message: right
+timestamp: 26 Apr 2016 01:54:20 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 01:54:50 | username: aashbrownie | message: right
+timestamp: 26 Apr 2016 01:54:51 | username: aashbrownie | message: right
+timestamp: 26 Apr 2016 01:54:52 | username: aashbrownie | message: right
+timestamp: 26 Apr 2016 01:55:19 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 01:55:24 | username: aashbrownie | message: right
+timestamp: 26 Apr 2016 01:55:26 | username: aashbrownie | message: right
+timestamp: 26 Apr 2016 01:56:21 | username: sarahtang | message: left
+timestamp: 26 Apr 2016 01:56:23 | username: sarahtang | message: right
+timestamp: 26 Apr 2016 01:56:27 | username: sarahtang | message: left
+timestamp: 26 Apr 2016 01:56:43 | username: sarahtang | message: up
+timestamp: 26 Apr 2016 01:56:51 | username: sarahtang | message: down
+timestamp: 26 Apr 2016 01:57:05 | username: sarahtang | message: right
+timestamp: 26 Apr 2016 01:57:10 | username: sarahtang | message: up
+timestamp: 26 Apr 2016 01:58:08 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 01:58:21 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 01:58:24 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 01:58:40 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 01:59:48 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 01:59:50 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:00:25 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:01:48 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:01:51 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:01:56 | username: sarahtang | message: down
+timestamp: 26 Apr 2016 02:01:57 | username: sarahtang | message: down down
+timestamp: 26 Apr 2016 02:01:58 | username: sarahtang | message: :)
+timestamp: 26 Apr 2016 02:02:11 | username: sarahtang | message: m
+timestamp: 26 Apr 2016 02:02:16 | username: sarahtang | message: right
+timestamp: 26 Apr 2016 02:02:30 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:03:27 | username: darkpenncoder | message: right
+timestamp: 26 Apr 2016 02:03:29 | username: darkpenncoder | message: left
+timestamp: 26 Apr 2016 02:03:44 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:03:52 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:03:53 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:03:55 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:04:52 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:04:58 | username: darkpenncoder | message: left
+timestamp: 26 Apr 2016 02:05:04 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:05:26 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:05:42 | username: aashbrownie | message: down
+timestamp: 26 Apr 2016 02:07:14 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:07:20 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:07:38 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:07:40 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:07:42 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:08:07 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:08:13 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:08:15 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:08:45 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:08:48 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:08:50 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:09:19 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:09:21 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:09:22 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:10:09 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:10:12 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:10:13 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:12:05 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:12:06 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:12:07 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:15:42 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:15:45 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:15:46 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:17:15 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:17:21 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:17:22 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:20:54 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:20:56 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:20:58 | username: nateselzer123 | message: left
+timestamp: 26 Apr 2016 02:23:26 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:23:28 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:23:29 | username: nateselzer123 | message: up
+timestamp: 26 Apr 2016 02:23:30 | username: darkpenncoder | message: left
+timestamp: 26 Apr 2016 02:25:35 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:25:39 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:25:41 | username: nateselzer123 | message: down
+timestamp: 26 Apr 2016 02:26:31 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:26:34 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:26:36 | username: nateselzer123 | message: right
+timestamp: 26 Apr 2016 02:26:38 | username: nateselzer123 | message: right
